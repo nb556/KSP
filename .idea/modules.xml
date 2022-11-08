@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KSP/KSP.iml" filepath="$PROJECT_DIR$/KSP/KSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MAA05.iml" filepath="$PROJECT_DIR$/MAA05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Teht. jotain/Teht. jotain.iml" filepath="$PROJECT_DIR$/Teht. jotain/Teht. jotain.iml" />
     </modules>
   </component>
 </project>
